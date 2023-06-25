@@ -24,7 +24,6 @@ Some information about the dataset:
     S1: Question or Seek; S2: Accept or Reject; S3: Counter or Offer; S4: Answer; S5: Clarify; S6: Inform or Declare; S7: Evaluation;
     S8: Instruct; S9: Repeat; S10: Confirmation; S11: Courtesy; S12: Greetings and Closing Rituals
 11) Search_Action: 4 categories (more details about the categories can be found in the paper, Section 4.3.2)
-
    Categories-->
     SR1: Query Creation or Refinement; SR2: SERP Scanning; SR3: Document Scanning; SR4: Organizing Answers from Multiple Documents 
 
